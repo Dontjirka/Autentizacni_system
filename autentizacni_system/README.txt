@@ -1,3 +1,0 @@
-# Autentizacni system
-## PNG databaze
-
