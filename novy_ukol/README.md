@@ -1,6 +1,6 @@
 # Autentizacni system
 ## PNG databaze
-
+![alt text](https://github.com/Dontjirka/Autentizacni_system/novy_ukol/user.png)
 ### Dulezite!!!
 **Pro zahashovani db je potreba refreshnout stranku *phpmyadmin*, vyhoda teto funkce je, ze pokazde, co se do db nahraje novy uzivatel, tak se automaticky (zatim nedokoncene) zahashuje.**
 ___
